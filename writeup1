@@ -123,3 +123,4 @@ forum_db/mlf2_userdata    # Interresting we have a passwd hash ? Since we have t
 mysql/user                # Seems even better, and look like phpmydamin and root have the same passwd
                             UPDATE mysql.user SET Password=PASSWORD('coucoucou') WHERE User='root'; (Not working)
 
+
