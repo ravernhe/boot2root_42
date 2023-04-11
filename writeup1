@@ -121,7 +121,7 @@ Best regards.
 forum_db/mlf2_userdata    # Interresting we have a passwd hash ? Since we have the passwd in clear maybe we can find a key OR maybe
                             we can just change it with one we know
 			    
-lmezard:0171e7dbcbf4bd21a732fa859ea98a2950b4f8aa1e5365dc90:Fg-'kKXBj87E:aJ$
+lmezard:0171e7dbcbf4bd21a732fa859ea98a2950b4f8aa1e5365dc90:!q\]Ej?*5K5cy*AJ
 admin:ed0fd64f25f3bd3a54f8d272ba93b6e76ce7f3d0516d551c28
 
 mysql/user                # Seems even better, and look like phpmydamin and root have the same passwd
