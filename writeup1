@@ -161,3 +161,4 @@ function is_pw_correct($pw,$hash)
   else return false;
  }
 
+# Can't crack the admin pass, but now we know mylittleforum use smarty and have a /templates_c
