@@ -162,3 +162,6 @@ function is_pw_correct($pw,$hash)
  }
 
 # Can't crack the admin pass, but now we know mylittleforum use smarty and have a /templates_c
+https://planet.mysql.com/entry/?id=15894
+
+# Ok we have acces to phpmyadmin so we can make an sql injection to create a file in templates_c and reverse shell
