@@ -200,4 +200,7 @@ NO SPACE IN THE PASSWORD (password is case sensitive).
 
 # I copy the bomb file and r2 on it, there is 6 bomb to diffuse, find the passphrase or the thing to input for each bomb in the file
 1 - Public speaking is very easy. # Start with a P like the hint file
-2 - 
+2 - 1 2 6 24 120 720
+3 - 7 b x20c (switch case)
+4 - 9 (bruteforced)
+5 - 
