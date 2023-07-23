@@ -181,6 +181,14 @@ it's your pass
 # Using the file number we can reorder it to : "Iheartpwnage" -> 330b845f32185747e4f8ca15d40ca59796035c89ea809fb5d30f4da83ecf45a4
 # It's work
 
+laurie@BornToSecHackMe:~$ cat /etc/os-release 
+NAME="Ubuntu"
+VERSION="12.04.5 LTS, Precise Pangolin"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu precise (12.04.5 LTS)"
+VERSION_ID="12.04"
+
 > laurie@BornToSecHackMe:~$ ls
 bomb  README
 
